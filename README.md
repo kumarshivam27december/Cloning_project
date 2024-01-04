@@ -37,6 +37,6 @@ Your contribution will be reviewed for merge
 
 
 =>License
-This project is licensed under the [@kumarshiva2004] License.
+This project is licensed under the [@kumarshiva2024] License.
 
 Feel free to customize this template based on your specific project details and structure. If you need further assistance on any section or specific details, feel free to ask!
